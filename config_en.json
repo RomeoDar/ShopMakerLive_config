@@ -957,11 +957,11 @@
     },
     {
       "key": "2reihs4qzc",
-      "icon": "search",
+      "icon": "videocam_fill",
       "layout": "search",
       "fontFamily": "CupertinoIcons",
-      "pos": 300,
-      "size": 24
+      "pos": 250,
+      "size": 30
     },
     {
       "pos": 400,
